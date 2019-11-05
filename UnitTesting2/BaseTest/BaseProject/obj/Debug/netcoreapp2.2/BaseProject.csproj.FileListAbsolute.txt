@@ -1,0 +1,11 @@
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\bin\Debug\netcoreapp2.2\BaseProject.deps.json
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\bin\Debug\netcoreapp2.2\BaseProject.runtimeconfig.json
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\bin\Debug\netcoreapp2.2\BaseProject.runtimeconfig.dev.json
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\bin\Debug\netcoreapp2.2\BaseProject.dll
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\bin\Debug\netcoreapp2.2\BaseProject.pdb
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\obj\Debug\netcoreapp2.2\BaseProject.csprojAssemblyReference.cache
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\obj\Debug\netcoreapp2.2\BaseProject.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\obj\Debug\netcoreapp2.2\BaseProject.AssemblyInfoInputs.cache
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\obj\Debug\netcoreapp2.2\BaseProject.AssemblyInfo.cs
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\obj\Debug\netcoreapp2.2\BaseProject.dll
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseProject\obj\Debug\netcoreapp2.2\BaseProject.pdb

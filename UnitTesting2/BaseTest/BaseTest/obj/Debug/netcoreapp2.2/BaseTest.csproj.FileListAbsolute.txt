@@ -1,0 +1,17 @@
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\BaseTest.deps.json
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\BaseTest.runtimeconfig.json
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\BaseTest.runtimeconfig.dev.json
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\BaseTest.dll
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\BaseTest.pdb
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\BaseProject.dll
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\bin\Debug\netcoreapp2.2\BaseProject.pdb
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\obj\Debug\netcoreapp2.2\BaseTest.csprojAssemblyReference.cache
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\obj\Debug\netcoreapp2.2\BaseTest.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\obj\Debug\netcoreapp2.2\BaseTest.AssemblyInfoInputs.cache
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\obj\Debug\netcoreapp2.2\BaseTest.AssemblyInfo.cs
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\obj\Debug\netcoreapp2.2\BaseTest.csproj.CopyComplete
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\obj\Debug\netcoreapp2.2\BaseTest.dll
+\\FS\STUDENT$\30008225\Desktop\UnitTesting2\BaseTest\BaseTest\obj\Debug\netcoreapp2.2\BaseTest.pdb
